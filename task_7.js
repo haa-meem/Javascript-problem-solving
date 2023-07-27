@@ -27,5 +27,4 @@ function romanToInt(roman) {
     return result;
 }
 
-console.log(romanToInt("IX"));
 console.log(romanToInt("XXI"));
